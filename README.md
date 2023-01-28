@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# 🔭 I’m currently working free
+# 🌱 I’m currently learning Web
+
+
+
 <!--
 **korea539/korea539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
