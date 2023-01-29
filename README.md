@@ -1,7 +1,7 @@
-### Hi there 👋
+# 안녕하세요! 👋
 
-# 🔭 I’m currently working free
-# 🌱 I’m currently learning Web
+# 🔭 현재 무직상태입니다.
+# 🌱 WEB(HTML, CSS, JavaScript)과 ML/DL 공부중입니다.
 
 
 
