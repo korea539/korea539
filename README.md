@@ -10,6 +10,7 @@
 ### 👯 강원대학교 간호학과 졸업
 ### 👯 순천향대학교 부천병원 근무 (2020.09~2022.06)
 ### 👯 멋쟁이사자처럼 AI스쿨 7기 수료 (2022.09~2023.01)
+### 👯 인천 논현동 모두병원 수술실 간호사 근무중 (2023.02~)
 
 <!--
 **korea539/korea539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
